@@ -1,0 +1,6 @@
+package com.allen.springdemo;
+
+public interface Coach {
+
+    public String getDailyWorkout();
+}
