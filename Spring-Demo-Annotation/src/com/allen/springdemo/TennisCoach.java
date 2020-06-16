@@ -6,12 +6,24 @@ import org.springframework.stereotype.Component;
 @Component
 public class TennisCoach implements Coach {
 
+
     private FortuneService fortuneService;
 
-    // automatically find component with matching types
+    // default constructor
+    public TennisCoach(){
+
+    }
+
+    /*// automatically find component with matching types
     @Autowired
     public TennisCoach(FortuneService fortuneService) {
         this.fortuneService = fortuneService;
+    }*/
+
+    @Autowired
+    public void setFortuneService(FortuneService thefortuneService) {
+        System.out.println("TennisCoach: Setter injection");
+        this.fortuneService = thefortuneService;
     }
 
     @Override

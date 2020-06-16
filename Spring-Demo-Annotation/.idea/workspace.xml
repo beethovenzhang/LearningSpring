@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c34764c0-079e-4d6e-9981-3124907cdcf3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/allen/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/allen/springdemo/Coach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/allen/springdemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/allen/springdemo/TennisCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592092239046</updated>
-      <workItem from="1592092244941" duration="3936000" />
+      <workItem from="1592092244941" duration="5317000" />
     </task>
     <servers />
   </component>
@@ -85,30 +84,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592179742498" />
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1592181930994">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1592281570196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592181930994" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592281570196" />
     <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592179740135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592179740135" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592182031052">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592281871915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592182031052" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592182031051">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592281871915" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592281871915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592182031051" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592182031051">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592281871915" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592281871914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592182031051" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592182031051">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592281871914" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592281871915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592182031051" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592281871915" />
     <state x="640" y="213" key="spring file set editor" timestamp="1592178416226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
