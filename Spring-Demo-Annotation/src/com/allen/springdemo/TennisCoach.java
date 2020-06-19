@@ -5,8 +5,10 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 @Component
-@Scope("prototype")
 public class TennisCoach implements Coach {
 
     @Autowired
@@ -15,7 +17,19 @@ public class TennisCoach implements Coach {
 
     // default constructor
     public TennisCoach(){
+        System.out.println("Default constructor");
+    }
 
+    // define init method
+    @PostConstruct
+    public void doMyStartUpStuff() {
+        System.out.println("Do my start up stuff");
+    }
+
+    // define destroy method
+    @PreDestroy
+    public void doMyCleanUpStuff() {
+        System.out.println("Do my clean up stuff");
     }
 
     /*// automatically find component with matching types
